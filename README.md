@@ -1,4 +1,4 @@
-# vue-form-example
+# complex-vue-form
 
 ## Project setup
 ```
