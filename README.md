@@ -1,4 +1,14 @@
 # complex-vue-form
+Complex Vue form with:
+* Router
+* Vuex
+* Validation
+* Tabs
+* Accordion
+* Rich-text editor
+* Multiselect
+
+Project page: [Complex Vue form](https://yegupov.github.io/complex-vue-form/).
 
 ## Project setup
 ```

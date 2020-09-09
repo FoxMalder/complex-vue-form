@@ -87,9 +87,6 @@ button[disabled] {
     color: #c9c9c9;
     background-color: #f0f0f0;
   }
-  .svg-icon {
-    fill: #c2c2c2;
-  }
 }
 
 img {
@@ -253,7 +250,7 @@ footer, header, hgroup, menu, nav, section {
   width: 12px;
   height: 12px;
   margin: 0 1px 0 5px;
-  background: url('/img/info.svg') no-repeat;
+  background: url('/img/info.png') no-repeat;
   background-size: 12px 12px;
   cursor: help;
 }
@@ -392,12 +389,12 @@ footer, header, hgroup, menu, nav, section {
 }
 
 .btn-copy {
-  background: url('/img/copy.svg') no-repeat;
+  background: url('/img/copy.png') no-repeat;
   background-size: 12px 12px;
 }
 
 .btn-paste {
-  background: url('/img/clipboard.svg') no-repeat;
+  background: url('/img/clipboard.png') no-repeat;
   background-size: 12px 12px;
 }
 
